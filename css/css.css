@@ -177,3 +177,32 @@ input[type="D7"]{
 .colorset = {
      color: Orange;
 }
+
+a.D71 {
+  position: absolute;
+      width: 245px;
+  font-weight: bold;
+  font-family: Pompadur, 'Comic Sans MS', cursive;
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  user-select: none;
+  padding: 1.4em 2em;
+  outline: none;
+  background: #FF8C00;
+  background-size: 100% 100%, auto;
+  background-position: 50% 50%;
+  box-shadow: 0 -4px rgb(170 70 0 / 65%) inset, 0 4px rgb(255 180 0 / 99%) inset, -4px 0 rgb(255 165 0 / 55%) inset, 4px 0 rgb(170 70 0 / 75%) inset;
+  transition: 0.2s;
+}
+a.D71:hover {
+  background-size: 140% 100%, auto;
+  box-shadow: 0 -4px rgb(20 20 20 / 65%) inset, 0 4px rgb(115 115 115 / 99%) inset, -4px 0 rgb(145 145 145 / 50%) inset, 4px 0 rgb(15 15 15 / 75%) inset;
+  background: rgba(50, 50, 50, 1);
+  transition: 0.4s;
+}
+a.D71:active {
+  top: 1px;
+  color: #ffdead; 
+}
