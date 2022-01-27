@@ -14,9 +14,7 @@ if (evenft.button==2)  {
 // Чтобы отключить третью кнопку поставьте цифру 3
 alert('Кнопка мышки отключена'); 
 } }
-function press(){
-alert('Клавиатура отключена');
-}
+
 document.onmousedown=click;
 document.onkeydown=press;
 // -->
