@@ -206,3 +206,48 @@ a.D71:active {
   top: 1px;
   color: #ffdead; 
 }
+
+.R3222 {
+	position: absolute;
+	background-color: rgba(0,0,0,0.2);
+	top: 50%;
+	left: 10%;
+	right: 10%;
+	bottom: auto;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+.R322 table, th, td {
+	position: relative;
+	top: %;
+	left: 0%;
+	right: 0%;
+	bottom: auto;
+    border-collapse: collapse;
+}
+
+.R3222 th {
+	padding: 5px;
+    text-align: center;
+	background: rgba(0, 0, 0, 0);
+	font-family: Pompadur, 'Comic Sans MS', cursive;
+	color: #FF8C07;
+	font-size: 260%;
+	height: 80px;
+	border: none;
+}
+
+.R3222 td {
+	padding: 7px;
+	width: 520px;
+	height: auto;
+}
+
+.R3232 {
+	padding: 5px;
+    text-align: left;
+	font-family: Pompadur, 'Comic Sans MS', cursive;
+	color: rgba(255, 255, 255, 1);
+	font-size: 150%;
+}
